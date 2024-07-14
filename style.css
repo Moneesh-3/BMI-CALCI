@@ -1,0 +1,52 @@
+body{
+    height: 500px;
+    width: 500px;
+    border: 2px solid white;
+    margin: auto;
+    margin-top: 90px;
+    background-color: aquamarine;
+}
+#head{
+    margin-left: 85px;
+}
+#he{
+    margin-left: 100px;
+
+}
+#h{
+    margin-left: 130px;
+}
+#w{
+    margin-left: 100px;
+}
+#we{
+    margin-left: 130px;
+}
+#bmi{
+    margin-left: 160px;
+    margin-top: 30px;
+    height: 35px;
+    width: 100px;
+    background-color: chocolate;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+#bv{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+#bt{
+    margin-left: 80px;
+    margin-top: 10px;
+
+}
+#value{
+    margin-left: 210px;
+}
+#type{
+    margin-left: 210px;
+}
+
